@@ -1,7 +1,6 @@
 # Brain-Tumor-Classification-Using-Convolutional-Neural-Network-CNN-
 A deep learning project for classifying brain tumor MRI scans into multiple categories using a comprehensive dataset. The project focuses on automated tumor detection and classification using medical imaging data.
 
-This repository contains a Notebook that processes and analyzes a brain tumor MRI dataset downloaded from Kaggle. The dataset includes MRI scans categorized into four classes: glioma, meningioma, pituitary tumor, and no tumor. The notebook provides tools for dataset exploration, including image counting and dimension analysis.
 
 ## Brain Tumor MRI Classification Dataset
 
